@@ -141,6 +141,10 @@
   <ItemGroup>
     <ClCompile Include="785_QuickSort.cpp" />
     <ClCompile Include="786_第K个数.cpp" />
+    <ClCompile Include="787_MergeSort.cpp" />
+    <ClCompile Include="788_逆序对的数量.cpp" />
+    <ClCompile Include="789_数的范围.cpp" />
+    <ClCompile Include="790_数的三次方根.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>_786_第K个数.Program</StartupObject>
+    <StartupObject>_790_数的三次方根.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
