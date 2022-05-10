@@ -145,6 +145,12 @@
     <ClCompile Include="788_逆序对的数量.cpp" />
     <ClCompile Include="789_数的范围.cpp" />
     <ClCompile Include="790_数的三次方根.cpp" />
+    <ClCompile Include="791_高精度加法.cpp" />
+    <ClCompile Include="792_高精度减法.cpp" />
+    <ClCompile Include="793_高精度乘法.cpp" />
+    <ClCompile Include="794_高精度除法.cpp" />
+    <ClCompile Include="795_前缀和.cpp" />
+    <ClCompile Include="796_子矩阵的和.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -33,5 +33,23 @@
     <ClCompile Include="790_数的三次方根.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="791_高精度加法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="792_高精度减法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="793_高精度乘法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="794_高精度除法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="795_前缀和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="796_子矩阵的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
