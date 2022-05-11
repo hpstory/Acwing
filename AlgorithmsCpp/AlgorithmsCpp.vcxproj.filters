@@ -51,5 +51,11 @@
     <ClCompile Include="796_子矩阵的和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="797_差分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="798_差分矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

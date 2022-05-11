@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>_794_高精度除法.Program</StartupObject>
+    <StartupObject>_798_差分矩阵.Program</StartupObject>
   </PropertyGroup>
 
 </Project>

@@ -151,6 +151,8 @@
     <ClCompile Include="794_高精度除法.cpp" />
     <ClCompile Include="795_前缀和.cpp" />
     <ClCompile Include="796_子矩阵的和.cpp" />
+    <ClCompile Include="797_差分.cpp" />
+    <ClCompile Include="798_差分矩阵.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
