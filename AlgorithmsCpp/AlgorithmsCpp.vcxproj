@@ -139,26 +139,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="2816_判断子序列.cpp" />
-    <ClCompile Include="785_QuickSort.cpp" />
-    <ClCompile Include="786_第K个数.cpp" />
-    <ClCompile Include="787_MergeSort.cpp" />
-    <ClCompile Include="788_逆序对的数量.cpp" />
-    <ClCompile Include="789_数的范围.cpp" />
-    <ClCompile Include="790_数的三次方根.cpp" />
-    <ClCompile Include="791_高精度加法.cpp" />
-    <ClCompile Include="792_高精度减法.cpp" />
-    <ClCompile Include="793_高精度乘法.cpp" />
-    <ClCompile Include="794_高精度除法.cpp" />
-    <ClCompile Include="795_前缀和.cpp" />
-    <ClCompile Include="796_子矩阵的和.cpp" />
-    <ClCompile Include="797_差分.cpp" />
-    <ClCompile Include="798_差分矩阵.cpp" />
-    <ClCompile Include="799_最长连续不重复子序列.cpp" />
-    <ClCompile Include="800_ 数组元素的目标和.cpp" />
-    <ClCompile Include="801_二进制中1的个数.cpp" />
-    <ClCompile Include="802_区间和.cpp" />
-    <ClCompile Include="803_区间合并.cpp" />
+    <ClCompile Include="基础算法/2816_判断子序列.cpp" />
+    <ClCompile Include="基础算法/785_QuickSort.cpp" />
+    <ClCompile Include="基础算法/786_第K个数.cpp" />
+    <ClCompile Include="基础算法/787_MergeSort.cpp" />
+    <ClCompile Include="基础算法/788_逆序对的数量.cpp" />
+    <ClCompile Include="基础算法/789_数的范围.cpp" />
+    <ClCompile Include="基础算法/790_数的三次方根.cpp" />
+    <ClCompile Include="基础算法/791_高精度加法.cpp" />
+    <ClCompile Include="基础算法/792_高精度减法.cpp" />
+    <ClCompile Include="基础算法/793_高精度乘法.cpp" />
+    <ClCompile Include="基础算法/794_高精度除法.cpp" />
+    <ClCompile Include="基础算法/795_前缀和.cpp" />
+    <ClCompile Include="基础算法/796_子矩阵的和.cpp" />
+    <ClCompile Include="基础算法/797_差分.cpp" />
+    <ClCompile Include="基础算法/798_差分矩阵.cpp" />
+    <ClCompile Include="基础算法/799_最长连续不重复子序列.cpp" />
+    <ClCompile Include="基础算法/800_ 数组元素的目标和.cpp" />
+    <ClCompile Include="基础算法/801_二进制中1的个数.cpp" />
+    <ClCompile Include="基础算法/802_区间和.cpp" />
+    <ClCompile Include="基础算法/803_区间合并.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
