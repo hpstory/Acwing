@@ -13,49 +13,70 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="基础算法">
+      <UniqueIdentifier>{318e427e-2091-4bae-8508-1babfb5e3fb3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="785_QuickSort.cpp">
-      <Filter>源文件</Filter>
+      <Filter>基础算法</Filter>
     </ClCompile>
     <ClCompile Include="786_第K个数.cpp">
-      <Filter>源文件</Filter>
+      <Filter>基础算法</Filter>
     </ClCompile>
     <ClCompile Include="787_MergeSort.cpp">
-      <Filter>源文件</Filter>
+      <Filter>基础算法</Filter>
     </ClCompile>
     <ClCompile Include="788_逆序对的数量.cpp">
-      <Filter>源文件</Filter>
+      <Filter>基础算法</Filter>
     </ClCompile>
     <ClCompile Include="789_数的范围.cpp">
-      <Filter>源文件</Filter>
+      <Filter>基础算法</Filter>
     </ClCompile>
     <ClCompile Include="790_数的三次方根.cpp">
-      <Filter>源文件</Filter>
+      <Filter>基础算法</Filter>
     </ClCompile>
     <ClCompile Include="791_高精度加法.cpp">
-      <Filter>源文件</Filter>
+      <Filter>基础算法</Filter>
     </ClCompile>
     <ClCompile Include="792_高精度减法.cpp">
-      <Filter>源文件</Filter>
+      <Filter>基础算法</Filter>
     </ClCompile>
     <ClCompile Include="793_高精度乘法.cpp">
-      <Filter>源文件</Filter>
+      <Filter>基础算法</Filter>
     </ClCompile>
     <ClCompile Include="794_高精度除法.cpp">
-      <Filter>源文件</Filter>
+      <Filter>基础算法</Filter>
     </ClCompile>
     <ClCompile Include="795_前缀和.cpp">
-      <Filter>源文件</Filter>
+      <Filter>基础算法</Filter>
     </ClCompile>
     <ClCompile Include="796_子矩阵的和.cpp">
-      <Filter>源文件</Filter>
+      <Filter>基础算法</Filter>
     </ClCompile>
     <ClCompile Include="797_差分.cpp">
-      <Filter>源文件</Filter>
+      <Filter>基础算法</Filter>
     </ClCompile>
     <ClCompile Include="798_差分矩阵.cpp">
-      <Filter>源文件</Filter>
+      <Filter>基础算法</Filter>
+    </ClCompile>
+    <ClCompile Include="799_最长连续不重复子序列.cpp">
+      <Filter>基础算法</Filter>
+    </ClCompile>
+    <ClCompile Include="800_ 数组元素的目标和.cpp">
+      <Filter>基础算法</Filter>
+    </ClCompile>
+    <ClCompile Include="2816_判断子序列.cpp">
+      <Filter>基础算法</Filter>
+    </ClCompile>
+    <ClCompile Include="801_二进制中1的个数.cpp">
+      <Filter>基础算法</Filter>
+    </ClCompile>
+    <ClCompile Include="802_区间和.cpp">
+      <Filter>基础算法</Filter>
+    </ClCompile>
+    <ClCompile Include="803_区间合并.cpp">
+      <Filter>基础算法</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

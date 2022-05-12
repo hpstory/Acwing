@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2816_判断子序列.cpp" />
     <ClCompile Include="785_QuickSort.cpp" />
     <ClCompile Include="786_第K个数.cpp" />
     <ClCompile Include="787_MergeSort.cpp" />
@@ -153,6 +154,11 @@
     <ClCompile Include="796_子矩阵的和.cpp" />
     <ClCompile Include="797_差分.cpp" />
     <ClCompile Include="798_差分矩阵.cpp" />
+    <ClCompile Include="799_最长连续不重复子序列.cpp" />
+    <ClCompile Include="800_ 数组元素的目标和.cpp" />
+    <ClCompile Include="801_二进制中1的个数.cpp" />
+    <ClCompile Include="802_区间和.cpp" />
+    <ClCompile Include="803_区间合并.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
