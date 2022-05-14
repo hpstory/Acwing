@@ -139,6 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="数据结构/154_滑动窗口.cpp" />
+    <ClCompile Include="数据结构/3302_表达式求值.cpp" />
+    <ClCompile Include="数据结构/827_双链表.cpp" />
+    <ClCompile Include="数据结构/828_模拟栈.cpp" />
+    <ClCompile Include="数据结构/829_模拟队列.cpp" />
+    <ClCompile Include="数据结构/830_单调栈.cpp" />
+    <ClCompile Include="数据结构/826_单链表.cpp" />
     <ClCompile Include="基础算法/2816_判断子序列.cpp" />
     <ClCompile Include="基础算法/785_QuickSort.cpp" />
     <ClCompile Include="基础算法/786_第K个数.cpp" />

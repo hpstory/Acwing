@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>_802_区间和.Program</StartupObject>
+    <StartupObject>_829_模拟队列.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
