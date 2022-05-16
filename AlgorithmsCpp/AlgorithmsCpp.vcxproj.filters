@@ -102,5 +102,26 @@
     <ClCompile Include="数据结构/3302_表达式求值.cpp">
       <Filter>数据结构</Filter>
     </ClCompile>
+    <ClCompile Include="数据结构/143_最大异或对.cpp">
+      <Filter>数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构/831_KMP字符串.cpp">
+      <Filter>数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构/835_Trie字符串统计.cpp">
+      <Filter>数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="836_合并集合.cpp">
+      <Filter>数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="837_连通块中点的数量.cpp">
+      <Filter>数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="838_堆排序.cpp">
+      <Filter>数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="839_模拟堆.cpp">
+      <Filter>数据结构</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
