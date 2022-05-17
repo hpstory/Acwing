@@ -111,16 +111,22 @@
     <ClCompile Include="数据结构/835_Trie字符串统计.cpp">
       <Filter>数据结构</Filter>
     </ClCompile>
-    <ClCompile Include="836_合并集合.cpp">
+    <ClCompile Include="数据结构/836_合并集合.cpp">
       <Filter>数据结构</Filter>
     </ClCompile>
-    <ClCompile Include="837_连通块中点的数量.cpp">
+    <ClCompile Include="数据结构/837_连通块中点的数量.cpp">
       <Filter>数据结构</Filter>
     </ClCompile>
-    <ClCompile Include="838_堆排序.cpp">
+    <ClCompile Include="数据结构/838_堆排序.cpp">
       <Filter>数据结构</Filter>
     </ClCompile>
-    <ClCompile Include="839_模拟堆.cpp">
+    <ClCompile Include="数据结构/839_模拟堆.cpp">
+      <Filter>数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构/840_模拟散列表.cpp">
+      <Filter>数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构/841_字符串哈希.cpp">
       <Filter>数据结构</Filter>
     </ClCompile>
   </ItemGroup>
