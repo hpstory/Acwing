@@ -19,6 +19,9 @@
     <Filter Include="数据结构">
       <UniqueIdentifier>{d5ed3f8a-e58c-4645-8487-4e2e5d69e363}</UniqueIdentifier>
     </Filter>
+    <Filter Include="搜索与图论">
+      <UniqueIdentifier>{dc526899-b3ee-409d-9763-c06303baa986}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="基础算法/785_QuickSort.cpp">
@@ -128,6 +131,18 @@
     </ClCompile>
     <ClCompile Include="数据结构/841_字符串哈希.cpp">
       <Filter>数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="搜索与图论/842_排列数字.cpp">
+      <Filter>搜索与图论</Filter>
+    </ClCompile>
+    <ClCompile Include="搜索与图论/843_n-皇后问题.cpp">
+      <Filter>搜索与图论</Filter>
+    </ClCompile>
+    <ClCompile Include="搜索与图论/844_走迷宫.cpp">
+      <Filter>搜索与图论</Filter>
+    </ClCompile>
+    <ClCompile Include="搜索与图论/845_八数码.cpp">
+      <Filter>搜索与图论</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

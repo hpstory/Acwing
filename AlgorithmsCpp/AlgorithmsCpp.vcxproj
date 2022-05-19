@@ -139,6 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="搜索与图论/842_排列数字.cpp" />
+    <ClCompile Include="搜索与图论/843_n-皇后问题.cpp" />
+    <ClCompile Include="搜索与图论/844_走迷宫.cpp" />
+    <ClCompile Include="搜索与图论/845_八数码.cpp" />
     <ClCompile Include="数据结构/840_模拟散列表.cpp" />
     <ClCompile Include="数据结构/841_字符串哈希.cpp" />
     <ClCompile Include="数据结构/836_合并集合.cpp" />

@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>_841_字符串哈希.Program</StartupObject>
+    <StartupObject>_845_八数码.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
