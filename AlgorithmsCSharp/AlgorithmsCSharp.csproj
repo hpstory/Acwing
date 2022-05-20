@@ -5,7 +5,12 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>_845_八数码.Program</StartupObject>
+    <StartupObject>_3_完全背包问题.Program</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="数学知识\" />
+    <Folder Include="贪心\" />
+  </ItemGroup>
 
 </Project>

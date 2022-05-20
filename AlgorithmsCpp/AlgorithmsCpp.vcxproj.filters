@@ -22,6 +22,9 @@
     <Filter Include="搜索与图论">
       <UniqueIdentifier>{dc526899-b3ee-409d-9763-c06303baa986}</UniqueIdentifier>
     </Filter>
+    <Filter Include="动态规划">
+      <UniqueIdentifier>{25add199-bb98-4c18-b833-05bb6e981fbb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="基础算法/785_QuickSort.cpp">
@@ -143,6 +146,30 @@
     </ClCompile>
     <ClCompile Include="搜索与图论/845_八数码.cpp">
       <Filter>搜索与图论</Filter>
+    </ClCompile>
+    <ClCompile Include="搜索与图论/846_树的重心.cpp">
+      <Filter>搜索与图论</Filter>
+    </ClCompile>
+    <ClCompile Include="搜索与图论/847_图中点的层次.cpp">
+      <Filter>搜索与图论</Filter>
+    </ClCompile>
+    <ClCompile Include="搜索与图论/848_有向图的拓扑序列.cpp">
+      <Filter>搜索与图论</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划/2_01背包问题.cpp">
+      <Filter>动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划/3_完全背包问题.cpp">
+      <Filter>动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划/4_多重背包问题.cpp">
+      <Filter>动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划/5_多重背包问题II.cpp">
+      <Filter>动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划/9_分组背包问题.cpp">
+      <Filter>动态规划</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
