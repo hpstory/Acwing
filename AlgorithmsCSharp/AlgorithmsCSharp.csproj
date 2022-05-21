@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>_3_完全背包问题.Program</StartupObject>
+    <StartupObject>_9_分组背包问题.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
